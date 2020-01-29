@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Admob Example</string>
+
+    <!--    Live      -->
+    <!--    <string name="ad_unit_app_id">ca-app-pub-9759200529659935~6889996113</string>-->
+    <!--    <string name="ad_unit_banner">ca-app-pub-9759200529659935/2376036038</string>-->
+    <!--    <string name="ad_unit_interstitial">ca-app-pub-9759200529659935/7819934403</string>-->
+    <!--    <string name="ad_unit_native"></string>-->
+    <!--    <string name="ad_unit_rewarded_video"></string>-->
+
+
+    <!--    //////////////////////////////////////////////////////////      -->
+
+    <!--    Test     -->
+    <string name="ad_unit_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_unit_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_unit_native">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="ad_unit_rewarded_video">ca-app-pub-3940256099942544/5224354917</string>
+
+</resources>
+
